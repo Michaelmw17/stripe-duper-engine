@@ -25,7 +25,7 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
         </Link>{' '}
         |{' '}
         <Link href="/checkout">
-          <a>Checkout</a>
+          <a>Checkout Stripe</a>
         </Link>{' '}
         |{' '}
         <Link href="/users">
